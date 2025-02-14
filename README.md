@@ -52,7 +52,7 @@ Execute the script by running:
 python ai_maze.py
 ```
 
-## Contributors
+## My contirbution:
 
 - I developed the "Path Optimization" logic, specifically the `find_best_path` function, optimizing the AI agent's movement for treasure collection. 
 
